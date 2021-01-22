@@ -3,8 +3,8 @@
 Web scraper built on request and bs4 to search and monitor product information on online retail platform
 
 ## Supported Platforms
--[x] Amazon
--[ ] Walmart (WIP)
+- [x] Amazon
+- [ ] Walmart (WIP)
 
 ## Installation
 
